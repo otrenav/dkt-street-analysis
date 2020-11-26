@@ -1,8 +1,12 @@
 
-# Street Analysis Tool
+[Delta Lab](https://links.deltalab.ai/website) | [Twitter](https://links.deltalab.ai/twitter) | [LinkedIn](https://links.deltalab.ai/linkedin)
 
-- For: Dr. Kensuke Teshima and Dr. Junichi Yamasaki
-- By: Omar Trejo
+---
+
+# Street Analysis
+
+- Omar Trejo
+- December, 2019
 
 ## Introduction
 
@@ -632,3 +636,7 @@ Below are links of interest for concepts/tools mentioned within this document.
 - https://epsg.io/2451
 - https://epsg.io/3857
 - https://epsg.io/4326
+
+---
+
+> "We are the people we have been waiting for."
